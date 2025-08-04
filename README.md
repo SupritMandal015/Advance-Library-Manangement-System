@@ -42,9 +42,9 @@ A feature-rich **Library Management System** with a graphical interface built us
 
 ---
 
-## ▶️ How to Run
+### ▶️ How to Run
 
-1. Clone the repository:
+## 1️⃣ Clone the repository:
 ```bash
 git clone https://github.com/SupritMandal015/Advance-Library-Manangement-System.git
 ```
@@ -73,4 +73,9 @@ python library_management_system.py
 - Recommendations improve as more books are issued/searched.
 
 - Data is persisted using JSON files in the current directory.
+
+---
+
+## 📄 License
+**This project is licensed under the MIT License. See the LICENSE file for details.**
 
