@@ -1,6 +1,3 @@
-from pathlib import Path
-
-readme_content = """
 # 📚 Library Management System (Python + Tkinter)
 
 A feature-rich **Library Management System** with a graphical interface built using Python and Tkinter. It supports user authentication, book issuing/returning, fine calculation, usage analytics, and AI-powered book recommendations.
@@ -69,9 +66,7 @@ python library_management_system.py
 
 
 - Fine is calculated as ₹2 per day after the due date.
-
 - Recommendations improve as more books are issued/searched.
-
 - Data is persisted using JSON files in the current directory.
 
 ---
